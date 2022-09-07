@@ -1,4 +1,6 @@
-### Olá, eu sou a Bia Miranda :)
+### Oii eu sou a Bia Miranda 👾
+
+##
 
 <div align="center">
   <a href="https://github.com/bia-miranda">
