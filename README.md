@@ -1,5 +1,5 @@
- ## Oii eu sou a Bia Miranda 🐉
- ## téc. ds 1/3 💡
+  Oii eu sou a Bia Miranda 🐉
+  téc. ds 1/3 💡
 
 ##
 
