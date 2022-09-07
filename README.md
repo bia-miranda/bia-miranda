@@ -17,4 +17,4 @@
  <a href="https://instagram.com/bia_miran" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/beatriz-miranda-120b121b0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
- ![Snake animation](https://github.com/bia-miranda/bia-miranda/tree/main/.github/workflows.svg)
+  ![Snake animation](https://github.com/bia-miranda/bia-miranda/blob/output/github-contribution-grid-snake.svg)
