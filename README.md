@@ -1,6 +1,6 @@
 Oii eu sou a Bia Miranda 🐉 téc. ds 1/3 💡
 
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/57008fa7fcf52aff5ceb16b13b1bc668.gif" width="200" height="200" border-radius="5px" margin-left="40px" alt="https://picasion.com/" /></a>
+<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/57008fa7fcf52aff5ceb16b13b1bc668.gif" width="200" height="200" border-radius="5px" margin-left="40" alt="https://picasion.com/" /></a>
 
 ## 🌐 sociais:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/beatrizmiranda9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bia_miran) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/bia_miran) 
