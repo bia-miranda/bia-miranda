@@ -1,6 +1,4 @@
-# 💫 About Me:
 Oii eu sou a Bia Miranda 🐉 téc. ds 1/3 💡
-
 
 ## 🌐 sociais:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/beatrizmiranda9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bia_miran) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/bia_miran) 
